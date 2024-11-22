@@ -25,8 +25,8 @@
 ## 📑 Table of Contents
 
 - [📜 Project Overview](#-project-overview)
-- [📊 Dataset Summary](#dataset-summary)
-- [⚙️ Installation](#installation)
+- [📊 Dataset Summary](#-dataset-summary)
+- [⚙️ Installation](#-installation)
 - [📂 Project Structure](#project-structure)
 - [🛠️ Preprocessing Steps](#preprocessing-steps)
 - [📚 Model Description](#model-description)
