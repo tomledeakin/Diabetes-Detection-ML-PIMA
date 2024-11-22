@@ -372,7 +372,6 @@ Diabetes-Detection-ML-PIMA/
 3. ⚖️ **Model Robustness**  
    - Ensured realistic performance estimates by adhering to best practices in data splitting and preprocessing.
 
----
 
 ### 🎯 Focus on Recall for Imbalanced Data
 
@@ -380,7 +379,6 @@ Diabetes-Detection-ML-PIMA/
 - Emphasizing **recall** ensures that diabetic cases are correctly identified, which is vital for early intervention and treatment.  
 - A high recall demonstrates the model's ability to minimize false negatives, making it a more effective tool for medical diagnostics.
 
----
 
 ### 🧠 Final Thoughts
 
