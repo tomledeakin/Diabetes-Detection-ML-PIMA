@@ -312,7 +312,7 @@ Diabetes-Detection-ML-PIMA/
 | 🌀 DummyClassifier             | 0.6537      | 0.5000                | 0.5000    | 0.5168      | 0.0263           |
 
 
-_Note: Only select models are shown above. Refer to the `pima-dataset.ipynb` notebook for the complete comparison._
+
 
 
 ---
