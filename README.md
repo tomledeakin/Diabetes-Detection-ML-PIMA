@@ -245,7 +245,7 @@ Diabetes-Detection-ML-PIMA/
 | SVM                   | 75.00%      | 0.63         | 0.69      | 0.66        |
 | Stacking Ensemble     | 76.00%      | 0.66         | 0.64      | 0.65        |
 
----
+
 
 ### 📊 Comparison of Percentage Differences
 
