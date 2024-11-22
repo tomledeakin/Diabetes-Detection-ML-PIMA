@@ -1,6 +1,6 @@
-# ✨ Machine Learning Approaches for Early Detection of Diabetes ✨
+# ✨ Machine Learning Approaches for Early Detection of Diabetes
 
-## 🌟 A Comparative Study and Novel Solution on the PIMA Indians Diabetes Dataset 🌟
+## 🌟 A Comparative Study and Novel Solution on the PIMA Indians Diabetes Dataset
 <img src="assets/pipeline.png" alt="Model Architecture" style="border: 5px solid black;"/>
 
 **Author:** Hai Nam LE
