@@ -1,11 +1,25 @@
 # Machine Learning Approaches for Early Detection of Diabetes
 
 ## A Comparative Study and Novel Solution on the PIMA Indians Diabetes Dataset
-![Model Architecture](assets/pipeline.png)
+<img src="assets/pipeline.png" alt="Model Architecture" style="border: 5px solid black;"/>
+
 **Author:** Hai Nam LE
 
 ---
+## Dependencies
 
+<div align="left">
+  <a href="https://lightgbm.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/lightgbm-4.5.0-blue?style=flat-square" alt="lightgbm"></a>
+  <a href="https://pypi.org/project/lazypredict/"><img src="https://img.shields.io/badge/lazypredict-0.2.11-blue?style=flat-square" alt="lazypredict"></a>
+  <a href="https://pypi.org/project/tabulate/"><img src="https://img.shields.io/badge/tabulate-0.9.0-blue?style=flat-square" alt="tabulate"></a>
+  <a href="https://imbalanced-learn.org/stable/"><img src="https://img.shields.io/badge/imbalanced--learn-0.12.4-blue?style=flat-square" alt="imbalanced-learn"></a>
+  <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit--learn-1.3.0-blue?style=flat-square" alt="scikit-learn"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-2.1.0-blue?style=flat-square" alt="pandas"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-1.24.3-blue?style=flat-square" alt="numpy"></a>
+  <a href="https://xgboost.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/xgboost-1.7.5-blue?style=flat-square" alt="xgboost"></a>
+</div>
+
+---
 ## Table of Contents
 
 - [Project Overview](#project-overview)
