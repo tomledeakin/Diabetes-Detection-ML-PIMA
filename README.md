@@ -111,6 +111,7 @@ Diabetes-Detection-ML-PIMA/
 │   └── PIMA_indians_diabetes.csv
 ├── pima-dataset.ipynb
 ├── README.md
+├── models_result.txt
 └── requirements.txt
 ```
 
