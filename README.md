@@ -1,7 +1,7 @@
 # Machine Learning Approaches for Early Detection of Diabetes
 
 ## A Comparative Study and Novel Solution on the PIMA Indians Diabetes Dataset
-
+![Model Architecture](assets/pipeline.png)
 **Author:** Hai Nam LE
 
 ---
@@ -11,7 +11,6 @@
 - [Project Overview](#project-overview)
 - [Dataset Summary](#dataset-summary)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Preprocessing Steps](#preprocessing-steps)
 - [Model Description](#model-description)
@@ -31,11 +30,6 @@
   - [Final Thoughts](#final-thoughts)
 - [References](#references)
 - [Contact](#contact)
-- [Additional Notes](#additional-notes)
-  - [Running the Jupyter Notebook](#running-the-jupyter-notebook)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
