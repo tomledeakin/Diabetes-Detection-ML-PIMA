@@ -24,7 +24,7 @@
 
 ## 📑 Table of Contents
 
-- [📜 Project Overview](#project-overview)
+- [📜 Project Overview](#-project-overview)
 - [📊 Dataset Summary](#dataset-summary)
 - [⚙️ Installation](#installation)
 - [📂 Project Structure](#project-structure)
